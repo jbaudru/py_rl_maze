@@ -15,7 +15,7 @@ pip install requirements.txt
 ```
 ### Execution :
 ```bash
-python main.text
+python main.py
 ```
 
 ### Screenshot :
